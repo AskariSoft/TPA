@@ -1,0 +1,22 @@
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\obj\Debug\TPA.DAL.csproj.GenerateResource.cache
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\obj\Debug\TPA.DAL.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\obj\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP.DAL\obj\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\obj\Debug\TPA.DAL.csproj.GenerateResource.cache
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\obj\Debug\TPA.DAL.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\obj\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA.DAL\obj\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\obj\Debug\TPA.DAL.csprojAssemblyReference.cache
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\obj\Debug\ERP.DAL.Properties.Resources.resources
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\obj\Debug\TPA.DAL.csproj.GenerateResource.cache
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\obj\Debug\TPA.DAL.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\obj\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\TPA\TPA\TPA.DAL\obj\Debug\ERP.DAL.pdb

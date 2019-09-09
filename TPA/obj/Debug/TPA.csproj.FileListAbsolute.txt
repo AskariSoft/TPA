@@ -1,0 +1,429 @@
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.exe.config
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.exe
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.pdb
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Data.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Images.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Utils.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraBars.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.BLL.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Office.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.BLL.pdb
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Data.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Utils.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraBars.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\DevExpress.Office.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.csprojAssemblyReference.cache
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\ERP.Properties.Resources.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.csproj.GenerateResource.cache
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\ERP.exe.licenses
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.csproj.CopyComplete
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\ERP.exe
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\ERP.pdb
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Accounts.Acc_OB.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Accounts.Denomination.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Accounts.frmAccounts.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Accounts.Vouchers.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Accounts.RV.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.EPR_System.AdmLogin.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.TPA_System.Sys_Setup.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.HomeScreen.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.Inv_Setup.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.Transfer.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.Item_OB.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.Adj.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.SR.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.Sales.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.PR.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.GRN.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Inventory.PO.resources
+G:\1 - Projects\Source\New TPA\TPA\ERP\obj\Debug\TPA.Splash.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.exe.config
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.exe
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.pdb
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Data.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Images.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraBars.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.BLL.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Office.v17.2.Core.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.BLL.pdb
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Data.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraBars.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\DevExpress.Office.v17.2.Core.xml
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.csprojAssemblyReference.cache
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Accounts.Acc_OB.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Accounts.Denomination.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Accounts.frmAccounts.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Accounts.Vouchers.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Accounts.RV.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.EPR_System.AdmLogin.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.TPA_System.Sys_Setup.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.HomeScreen.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.Inv_Setup.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.Transfer.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.Item_OB.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.Adj.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.SR.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.Sales.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.PR.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.GRN.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Inventory.PO.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\ERP.Properties.Resources.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.Splash.resources
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.csproj.GenerateResource.cache
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\ERP.exe.licenses
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\TPA.csproj.CopyComplete
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\ERP.exe
+G:\1 - Projects\Source\New TPA\TPA\TPA\obj\Debug\ERP.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.exe.config
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.exe
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Data.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Images.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraBars.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.BLL.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.DAL.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Office.v17.2.Core.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.BLL.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ERP.DAL.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Data.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraBars.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\DevExpress.Office.v17.2.Core.xml
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.csprojAssemblyReference.cache
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Accounts.Acc_OB.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Accounts.Denomination.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Accounts.frmAccounts.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Accounts.Vouchers.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Accounts.RV.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.EPR_System.AdmLogin.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.TPA_System.Sys_Setup.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.HomeScreen.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.Inv_Setup.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.Transfer.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.Item_OB.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.Adj.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.SR.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.Sales.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.PR.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.GRN.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Inventory.PO.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\ERP.Properties.Resources.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Splash.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.csproj.GenerateResource.cache
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\ERP.exe.licenses
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.csproj.CoreCompileInputs.cache
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.csproj.CopyComplete
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\ERP.exe
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\ERP.pdb
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.Shared.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\FlashControlV71.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\stdole.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\bin\Debug\ShockwaveFlashObjects.dll
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.Accounts.RPT.AC01.resources
+G:\1 - Projects\Source\TPA\TPA\TPA\obj\Debug\TPA.RptViewer.resources
